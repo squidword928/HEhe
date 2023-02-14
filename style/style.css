@@ -5,6 +5,7 @@ html {
 body {
   margin: 0;
   font-family: "Work Sans", sans-serif;
+  background-color: #eabca1;
 }
 
 .container {
@@ -39,6 +40,7 @@ body {
 
 .one {
   font-size: 4.5rem;
+  color: #8c5b3d;
 }
 
 .one > img {
@@ -49,12 +51,14 @@ body {
 }
 
 .two {
-  font-size: 1.2rem;
+  font-size: 1.8rem;
   font-weight: lighter;
+  color: #8c5b3d;
 }
 
 .three {
-  font-size: 3rem;
+  font-size: 2rem;
+  color: #8c5b3d;
 }
 
 .four .text-box {
@@ -68,6 +72,7 @@ body {
 
 .text-box p {
   margin: 0;
+  color: #8c5b3d;
   text-align: left;
 }
 
@@ -88,6 +93,7 @@ body {
 .five p {
   font-size: 2rem;
   position: absolute;
+  color: #8c5b3d;
   left: 0;
   right: 0;
 }
@@ -114,6 +120,7 @@ body {
 
 .six {
   position: relative;
+  color: #8c5b3d;
 }
 
 .six img {
@@ -225,6 +232,7 @@ body {
 
 .nine p {
   font-size: 2rem;
+  color: #8c5b3d;
   font-weight: lighter;
 }
 
